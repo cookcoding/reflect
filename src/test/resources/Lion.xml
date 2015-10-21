@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+	<bean>
+		<classname>com.dynamo.domain.Lion</classname>
+		<params>l
+			<name></name>
+			<value></value>
+		</params>
+	</bean>
+</beans>
